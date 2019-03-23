@@ -25,7 +25,7 @@ mkdir <name-of-folder>
 
 ## npm & Yarn
 
-* Initializing project
+* Initializing/starting NodeJS project
 
 **npm** 
 ``` bash

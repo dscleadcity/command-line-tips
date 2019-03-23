@@ -21,6 +21,7 @@ mkdir <name-of-folder>
 ```
 
 - - -
+- - -
 
 ## npm & Yarn
 
@@ -36,6 +37,8 @@ npm init
 yarn init
 ```
 
+- - -
+
 * Adding files
 
 **npm** 
@@ -47,6 +50,8 @@ npm install <package-name>
 ``` bash
 yarn add <package-name>
 ```
+
+- - -
 
 * Removing files
 

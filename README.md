@@ -1,6 +1,6 @@
 # Command line tips
 
-Here are some **command-line tips**:
+Here are some helpful **command-line tips**:
 
 1. Changing folders
 
@@ -24,6 +24,18 @@ mkdir <name-of-folder>
 
 ## npm & Yarn
 
+* Initializing project
+
+**npm** 
+``` bash
+npm init
+```
+
+**Yarn**
+``` bash
+yarn init
+```
+
 * Adding files
 
 **npm** 
@@ -36,4 +48,14 @@ npm install <package-name>
 yarn add <package-name>
 ```
 
-*
+* Removing files
+
+**npm** 
+``` bash
+npm uninstall <package-name>
+```
+
+**Yarn**
+``` bash
+yarn remove <package-name>
+```
